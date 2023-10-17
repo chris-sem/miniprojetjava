@@ -1,7 +1,7 @@
 # miniprojetjava
 Management et gestion d'un supermarché
 
-Le projet est realisé avec Java 17 et l'API Java Swing est utilisée pour la réalisation de l'interface graphique
+Le projet est realisé avec **Java 17** et l'**API Java Swing** est utilisée pour la réalisation de l'**interface graphique**
 
 # Comment ca marche...
 Commencer par lancer le projet (la fonction main bien sûr. Plus facile sur netbeans ou Intellij)
