@@ -1,0 +1,143 @@
+
+b
+java:S1192"LDefine a constant instead of duplicating this literal "Description" 3 times.(ãôôı
+b
+java:S1192"LDefine a constant instead of duplicating this literal "Fournisseur" 3 times.(ãôôı
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Pays origine" 3 times.(ãôôı
+³
+java:S1192'"œDefine a constant instead of duplicating this literal "Vous pouvez cliquez sur les entetes des colonnes, pour trier la table suivant cette colonne" 6 times.(±ƒß³
+\
+java:S1192"FDefine a constant instead of duplicating this literal "Poids" 3 times.(ãôôı
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Id produit" 3 times.(ãôôı
+c
+java:S1192"MDefine a constant instead of duplicating this literal "Qutite stock" 3 times.(ãôôı
+g	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çó®’
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çó®’
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú÷Ç­
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ËÊ
+g	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú÷Ç­
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ËÊ
+>
+java:S1604Š"(Make this anonymous inner class a lambda(ˆÔ¢y
+>
+java:S1604"(Make this anonymous inner class a lambda(Â”Ò^
+D
+java:S1604–"(Make this anonymous inner class a lambda(·èßÿÿÿÿÿ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(ŞŸÛåøÿÿÿÿ
+D
+java:S1604´"(Make this anonymous inner class a lambda(ÈÇşäùÿÿÿÿ
+D
+java:S1604¼"(Make this anonymous inner class a lambda(î½öıúÿÿÿÿ
+D
+java:S1604Ä"(Make this anonymous inner class a lambda(‰¶Èıÿÿÿÿ
+D
+java:S1604é"(Make this anonymous inner class a lambda(¤³İúÿÿÿÿ
+r	java:S116Ò"WRename this field "jT_Recherche" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‚ıùÿÿÿÿ
+t	java:S116Ó"YRename this field "jT_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘şûÿÿÿÿ
+t	java:S116Ô"YRename this field "jT_fournisseur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Îÿÿÿÿÿ
+r	java:S116Õ"WRename this field "jT_idproduit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŸòşÿÿÿÿ
+l	java:S116Ö"QRename this field "jT_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÁÚ”ıÿÿÿÿ
+o	java:S116×"YRename this field "jT_paysorigine" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şø±å
+n	java:S116Ø"SRename this field "jT_poids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ…ÊÛüÿÿÿÿ
+g	java:S116Ù"RRename this field "jT_prix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î´éJ
+p	java:S116Ú"URename this field "jT_produit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûãôúÿÿÿÿ
+v	java:S116Û"[Rename this field "jT_quantitestock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®âÓÎøÿÿÿÿ
+l	java:S116Ü"QRename this field "jT_tva" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏŞé€ıÿÿÿÿ
+r
+java:S1450Æ"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450Ç"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450È"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450É"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450Ê"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450Ë"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450Ì"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450Í"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450Î"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450Ï"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450Ğ"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+w
+java:S1450Ñ"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+Q
+java:S1161„":Add the "@Override" annotation above this method signature(†ŒË³
+V
+java:S1161ô":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ
+A
+java:S1172ø"*Remove this unused method parameter "evt".(³üÊ‘
+A
+java:S1172¢"*Remove this unused method parameter "evt".(»—œ°
+d	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¨
+A
+java:S1172Ì"*Remove this unused method parameter "evt".(ï¨
+N
+java:S1135Í"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+c	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÿÌ/
+@
+java:S1172Ğ"*Remove this unused method parameter "evt".(—ÿÌ/
+N
+java:S1135Ñ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+d	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€¯‹¼
+A
+java:S1172Ô"*Remove this unused method parameter "evt".(€¯‹¼
+N
+java:S1135Õ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+i	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ËÉÅÿÿÿÿÿ
+F
+java:S1172Ø"*Remove this unused method parameter "evt".(÷ËÉÅÿÿÿÿÿ
+A
+java:S1172á"*Remove this unused method parameter "evt".(Ñşˆè
+d	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êª¾–
+A
+java:S1172‘"*Remove this unused method parameter "evt".(Êª¾–
+T
+java:S1854·"8Remove this useless assignment to local variable "prix".(ùö€ªûÿÿÿÿ
+N
+java:S1854¸"7Remove this useless assignment to local variable "tva".(×ŒÆ®
+P
+java:S1854¹"9Remove this useless assignment to local variable "poids".(ï…Ö
+^
+java:S1854º"BRemove this useless assignment to local variable "quantite_stock".(è“İµûÿÿÿÿ
+A
+java:S1172©"*Remove this unused method parameter "evt".(æäË
+E
+java:S1481­")Remove this unused "prix" local variable.(ô¬‚‰úÿÿÿÿ
+?
+java:S1481®"(Remove this unused "tva" local variable.(Í‚Á¡
+A
+java:S1481¯"*Remove this unused "poids" local variable.(®·×
+J
+java:S1481°"3Remove this unused "quantite_stock" local variable.(‹ËÊ
+T
+java:S1854ü"8Remove this useless assignment to local variable "prix".(ùö€ªûÿÿÿÿ
+N
+java:S1854ı"7Remove this useless assignment to local variable "tva".(×ŒÆ®
+P
+java:S1854ş"9Remove this useless assignment to local variable "poids".(ï…Ö
+^
+java:S1854ÿ"BRemove this useless assignment to local variable "quantite_stock".(è“İµûÿÿÿÿ
+A
+java:S1172ï"*Remove this unused method parameter "evt".(ÏÑş¯
+E
+java:S1481ò")Remove this unused "prix" local variable.(ô¬‚‰úÿÿÿÿ
+?
+java:S1481ó"(Remove this unused "tva" local variable.(Í‚Á¡
+A
+java:S1481ô"*Remove this unused "poids" local variable.(®·×
+J
+java:S1481õ"3Remove this unused "quantite_stock" local variable.(‹ËÊ
+R	java:S125•"<This block of commented-out lines of code should be removed.(š»şÍ
+Q	java:S125¢"<This block of commented-out lines of code should be removed.(¤ı˜9
+^
+java:S1128"CRemove this unused import 'com.mycompany.miniprojetjava.Personnel'.(ÎÚÁğøÿÿÿÿ

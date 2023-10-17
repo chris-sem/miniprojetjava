@@ -1,0 +1,23 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ã²ùşÿÿÿÿ
+k	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øš‰ øÿÿÿÿ
+C
+java:S1604_"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+r
+java:S1104g"WMake jPanel_main a static final constant or non-public and provide accessors if needed.(äå‡èüÿÿÿÿ
+L
+java:S1444g"1Make this "public static jPanel_main" field final(äå‡èüÿÿÿÿ
+q
+java:S3008g"VRename this field "jPanel_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äå‡èüÿÿÿÿ
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(ºˆ«ª
+E
+java:S1197F"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+Z
+java:S2147U"DCombine this catch with the one at line 83, which has the same body.(¨¦Š½
+Z
+java:S2147W"DCombine this catch with the one at line 85, which has the same body.(ã€ 
+Y
+java:S2147Y"DCombine this catch with the one at line 87, which has the same body.(ñÎ¯%
+^
+java:S1128"HRemove this unused import 'com.mycompany.miniprojetjava.Miniprojetjava'.(•§ª

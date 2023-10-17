@@ -1,0 +1,4 @@
+1_autre_0
+2_Aliment_0
+3_Medecine_0
+4_appareil electronique_0

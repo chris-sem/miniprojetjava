@@ -1,0 +1,6 @@
+1_Pain_croustillant_2.5_France_10.0_Boulanger_10.0_9.0_0
+2_Poulet_vif_11.5_France_2.5_Auchan_5.0_23.0_0
+3_Oeuf_Plain air_2.0_France_10.0_Auchan_10.0_1.0_0
+4_Obergine_Crudite_2.0_France_2.0_Compagne_1.0_18.0_0
+5_Kiwi_fruit_2.0_France_1.0_Auchan_0.2_0.0_0
+6_Orange_fruit_1.0_France_0.0_Auchan_0.5_14.0_0

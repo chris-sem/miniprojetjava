@@ -1,0 +1,86 @@
+
+b
+java:S1192{"LDefine a constant instead of duplicating this literal "Code postal" 3 times.(²Õ­û
+`
+java:S1192{"JDefine a constant instead of duplicating this literal "Id client" 3 times.(²Õ­û
+]
+java:S1192{"GDefine a constant instead of duplicating this literal "Prenom" 3 times.(²Õ­û
+
+java:S1192õ"Define a constant instead of duplicating this literal "Cliquez sur le bouton ajouter pour ajouter un client Ã  la table" 4 times.(í¯ˆ˜ıÿÿÿÿ
+³
+java:S1192)"œDefine a constant instead of duplicating this literal "Vous pouvez cliquez sur les entetes des colonnes, pour trier la table suivant cette colonne" 4 times.(±ƒß³
+i
+java:S1192{"SDefine a constant instead of duplicating this literal "Num carte fidelite" 3 times.(²Õ­û
+l	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óØ©ûÿÿÿÿ
+l	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óØ©ûÿÿÿÿ
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ô½ª
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ô½ª
+D
+java:S1604’"(Make this anonymous inner class a lambda(ŞŸÛåøÿÿÿÿ
+D
+java:S1604š"(Make this anonymous inner class a lambda(ÈÇşäùÿÿÿÿ
+D
+java:S1604¢"(Make this anonymous inner class a lambda(î½öıúÿÿÿÿ
+D
+java:S1604ª"(Make this anonymous inner class a lambda(¼ò§½ûÿÿÿÿ
+D
+java:S1604Ï"(Make this anonymous inner class a lambda(¤³İúÿÿÿÿ
+?
+java:S1604İ"(Make this anonymous inner class a lambda(Ü‹Ó¸
+p	java:S116‡"URename this field "jT_clients" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æãº„üÿÿÿÿ
+o	java:S116ˆ"YRename this field "jT_codepostale" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ€ÿ¤
+l	java:S116‰"VRename this field "jT_idclient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¿ìæ
+h	java:S116Š"RRename this field "jT_mail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô†ÒÅ
+l	java:S116‹"QRename this field "jT_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÁÚ”ıÿÿÿÿ
+s	java:S116Œ"^Rename this field "jT_numcartefidelite" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š¿ş
+j	java:S116"TRename this field "jT_prenom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èâÛ¼
+r	java:S116"WRename this field "jT_recherche" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µƒúÿúÿÿÿÿ
+r
+java:S1450ş"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450ÿ"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450€"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450‚"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450ƒ"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+r
+java:S1450„"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450…"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+w
+java:S1450†"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(†ŒË³
+V
+java:S1161Ø":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ
+A
+java:S1172Ô"*Remove this unused method parameter "evt".(³üÊ‘
+A
+java:S1172ú"*Remove this unused method parameter "evt".(»—œ°
+d	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Ïõƒ
+A
+java:S1172 "*Remove this unused method parameter "evt".(×Ïõƒ
+N
+java:S1135¡"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+i	java:S100¤"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢ûî·üÿÿÿÿ
+F
+java:S1172¤"*Remove this unused method parameter "evt".(¢ûî·üÿÿÿÿ
+i	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éëãøøÿÿÿÿ
+F
+java:S1172¹"*Remove this unused method parameter "evt".(éëãøøÿÿÿÿ
+F
+java:S1172Â"*Remove this unused method parameter "evt".(’­Ùüÿÿÿÿ
+T
+java:S1854ş"=Remove this useless assignment to local variable "id_client".(¨ƒ„œ
+A
+java:S1172ô"*Remove this unused method parameter "evt".(æäË
+A
+java:S1172°"*Remove this unused method parameter "evt".(ÏÑş¯
+R	java:S125Ò"<This block of commented-out lines of code should be removed.(š»şÍ
+R	java:S125Ş"<This block of commented-out lines of code should be removed.(•¬ó
+\
+java:S1128	"ARemove this unused import 'com.mycompany.miniprojetjava.Produit'.(µœŒ©ıÿÿÿÿ

@@ -1,0 +1,90 @@
+
+c
+java:S1192{"HDefine a constant instead of duplicating this literal "Adresse" 3 times.(¥¥ºüûÿÿÿÿ
+p
+java:S1192{"UDefine a constant instead of duplicating this literal "Adresse lieu travail" 3 times.(¥¥ºüûÿÿÿÿ
+b
+java:S1192{"GDefine a constant instead of duplicating this literal "Prenom" 3 times.(¥¥ºüûÿÿÿÿ
+h
+java:S1192{"MDefine a constant instead of duplicating this literal "Id superieur" 3 times.(¥¥ºüûÿÿÿÿ
+e
+java:S1192{"JDefine a constant instead of duplicating this literal "Num badge" 3 times.(¥¥ºüûÿÿÿÿ
+³
+java:S1192%"œDefine a constant instead of duplicating this literal "Vous pouvez cliquez sur les entetes des colonnes, pour trier la table suivant cette colonne" 6 times.(±ƒß³
+h
+java:S1192{"MDefine a constant instead of duplicating this literal "Id personnel" 3 times.(¥¥ºüûÿÿÿÿ
+a
+java:S1192{"FDefine a constant instead of duplicating this literal "Poste" 3 times.(¥¥ºüûÿÿÿÿ
+l	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÎö¥üÿÿÿÿ
+g	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÛœÏ
+g	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ Á÷
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÛœÏ
+g	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ Á÷
+l	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŠÎö¥üÿÿÿÿ
+D
+java:S1604–"(Make this anonymous inner class a lambda(ŞŸÛåøÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(ÈÇşäùÿÿÿÿ
+D
+java:S1604¦"(Make this anonymous inner class a lambda(î½öıúÿÿÿÿ
+D
+java:S1604®"(Make this anonymous inner class a lambda(®Ç­Õûÿÿÿÿ
+D
+java:S1604Ó"(Make this anonymous inner class a lambda(¤³İúÿÿÿÿ
+p	java:S116•"URename this field "jT_adresse" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú„æÒøÿÿÿÿ
+x	java:S116–"]Rename this field "jT_adresse_travail" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¾Ëøÿÿÿÿ
+t	java:S116—"YRename this field "jT_idpersonnel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™Ùã˜ÿÿÿÿÿ
+n	java:S116˜"SRename this field "jT_idsup" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼µ‰€úÿÿÿÿ
+l	java:S116™"QRename this field "jT_nom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ÁÚ”ıÿÿÿÿ
+r	java:S116š"WRename this field "jT_num_badge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ´Ğïüÿÿÿÿ
+r	java:S116›"WRename this field "jT_personnel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢æ„»ıÿÿÿÿ
+i	java:S116œ"SRename this field "jT_poste" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉáËİ
+j	java:S116"TRename this field "jT_prenom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èâÛ¼
+r
+java:S1450‹"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+r
+java:S1450Œ"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450‘"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450’"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450“"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+w
+java:S1450”"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+Q
+java:S1161€":Add the "@Override" annotation above this method signature(†ŒË³
+V
+java:S1161à":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ
+A
+java:S1172Å"*Remove this unused method parameter "evt".(³üÊ‘
+F
+java:S1172í"*Remove this unused method parameter "evt".(îÉÙöûÿÿÿÿ
+A
+java:S1172õ"*Remove this unused method parameter "evt".(ªõ´Ô
+d	java:S100¨"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï‡âš
+A
+java:S1172¨"*Remove this unused method parameter "evt".(Ï‡âš
+Q
+java:S1854Î":Remove this useless assignment to local variable "id_sup".(ğåÚñ
+A
+java:S1172Ä"*Remove this unused method parameter "evt".(æäË
+B
+java:S1481Æ"+Remove this unused "id_sup" local variable.( ÛœÏ
+Q
+java:S1854™":Remove this useless assignment to local variable "id_sup".(ğåÚñ
+A
+java:S1172ƒ"*Remove this unused method parameter "evt".(ÏÑş¯
+B
+java:S1481…"+Remove this unused "id_sup" local variable.( ÛœÏ
+Q	java:S125¸"<This block of commented-out lines of code should be removed.(¤ı˜9
+A
+java:S1172Ú"*Remove this unused method parameter "evt".(»—œ°

@@ -1,0 +1,75 @@
+
+`
+java:S1192?"JDefine a constant instead of duplicating this literal "Segoe UI" 10 times.(Şôìâ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è«Î¼
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôîª–ıÿÿÿÿ
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶“×«
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒéÙ÷ùÿÿÿÿ
+g	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è«Î¼
+f	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¢Å8
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åéÿÿÿÿÿ
+g	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÉõ
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¢‹õùÿÿÿÿ
+l	java:S117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ã²ùşÿÿÿÿ
+C
+java:S1604B"(Make this anonymous inner class a lambda(èãÊÎşÿÿÿÿ
+C
+java:S1604L"(Make this anonymous inner class a lambda(Ù¤ò¸üÿÿÿÿ
+C
+java:S1604V"(Make this anonymous inner class a lambda(ûŒóªùÿÿÿÿ
+>
+java:S1604`"(Make this anonymous inner class a lambda(Ü‹¿É
+C
+java:S1604j"(Make this anonymous inner class a lambda(ÙğÈÍúÿÿÿÿ
+C
+java:S1604t"(Make this anonymous inner class a lambda(˜Ü×ßüÿÿÿÿ
+C
+java:S1604~"(Make this anonymous inner class a lambda(ËÄ¸…øÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ü¥¿Á
+m	java:S116â"RRename this field "jL_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïåˆğşÿÿÿÿ
+n	java:S116ã"XRename this field "jL_nomManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åöúÛ
+y	java:S116ê"^Rename this field "jPanel_manager_main" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‹Üşÿÿÿÿ
+w
+java:S1450Û"`Remove the "boutonApercuvente" field and declare it as a local variable in the relevant methods.(´ÎË
+
+java:S1450Ü"cRemove the "boutonGererCaissiers" field and declare it as a local variable in the relevant methods.(Ö®Ş¸üÿÿÿÿ
+w
+java:S1450İ"`Remove the "boutonGererClient" field and declare it as a local variable in the relevant methods.(ô–ÙÒ
+x
+java:S1450Ş"aRemove the "boutonGererManager" field and declare it as a local variable in the relevant methods.(åÍ§Ä
+{
+java:S1450ß"dRemove the "boutonGererPersonnels" field and declare it as a local variable in the relevant methods.(Ä˜—‰
+€
+java:S1450à"dRemove the "boutonGererPointvente" field and declare it as a local variable in the relevant methods.(òµ«”şÿÿÿÿ
+~
+java:S1450á"bRemove the "boutonGererProduits" field and declare it as a local variable in the relevant methods.(è›÷üÿÿÿÿ
+r
+java:S1450ä"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450å"WRemove the "jLabel15" field and declare it as a local variable in the relevant methods.(³şâçøÿÿÿÿ
+m
+java:S1450æ"WRemove the "jLabel18" field and declare it as a local variable in the relevant methods.(†«=
+r
+java:S1450ç"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+m
+java:S1450è"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+r
+java:S1450é"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+Q
+java:S1161†":Add the "@Override" annotation above this method signature(†ŒË³
+A
+java:S1172ˆ"*Remove this unused method parameter "evt".(½Ëÿ«
+F
+java:S1172"*Remove this unused method parameter "evt".(êƒÕ»şÿÿÿÿ
+F
+java:S1172˜"*Remove this unused method parameter "evt".(›‚ÇÉıÿÿÿÿ
+F
+java:S1172 "*Remove this unused method parameter "evt".(ÆØÀ–ıÿÿÿÿ
+A
+java:S1172¨"*Remove this unused method parameter "evt".(¹Õ›È
+A
+java:S1172°"*Remove this unused method parameter "evt".(“ú¾™
+A
+java:S1172¸"*Remove this unused method parameter "evt".(öÚ“
+F
+java:S1172À"*Remove this unused method parameter "evt".(³üƒúùÿÿÿÿ

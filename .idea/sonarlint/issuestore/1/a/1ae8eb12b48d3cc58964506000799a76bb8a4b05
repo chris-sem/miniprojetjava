@@ -1,0 +1,296 @@
+
+d
+java:S1192ò"MDefine a constant instead of duplicating this literal "Segoe Script" 3 times.(×©í¨
+f
+java:S1192ë"ODefine a constant instead of duplicating this literal "Segoe UI Light" 4 times.(Ê—…
+œ
+java:S1192Å"„Define a constant instead of duplicating this literal "Cliquez sur le bouton ajouter pour ajouter un produit Ã  la facture" 4 times.(ØÛ¾”
+v
+java:S1192©"_Define a constant instead of duplicating this literal "Vous devez cliquez sur ligne !" 3 times.(õØ—¥
+c
+java:S1192ò	"GDefine a constant instead of duplicating this literal "Erreur" 6 times.(ŒÁ«‘øÿÿÿÿ
+f
+java:S1192á"JDefine a constant instead of duplicating this literal "Segoe UI" 20 times.(¿Ü§Úşÿÿÿÿ
+b
+java:S1192‡"FDefine a constant instead of duplicating this literal "autre" 3 times.(¿“ª¼ıÿÿÿÿ
+F
+java:S1066à	"/Merge this if statement with the enclosing one.(‰´Í“
+F
+java:S1066•"/Merge this if statement with the enclosing one.(‰´Í“
+g	java:S117Ñ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©õ‘Ë
+l	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ã²ùşÿÿÿÿ
+?
+java:S1604Š"(Make this anonymous inner class a lambda(ÿóÎ×
+D
+java:S1604’"(Make this anonymous inner class a lambda(Åûÿ¾øÿÿÿÿ
+D
+java:S1604›"(Make this anonymous inner class a lambda(ÕÜÜ«ûÿÿÿÿ
+D
+java:S1604£"(Make this anonymous inner class a lambda(ŒÁÃÒùÿÿÿÿ
+>
+java:S1604«"(Make this anonymous inner class a lambda(ÔÑ»
+D
+java:S1604³"(Make this anonymous inner class a lambda(»€¹Ïúÿÿÿÿ
+?
+java:S1604»"(Make this anonymous inner class a lambda(“àí¾
+?
+java:S1604Ã"(Make this anonymous inner class a lambda(óù° 
+?
+java:S1604Ë"(Make this anonymous inner class a lambda(±œ¶
+?
+java:S1604Ó"(Make this anonymous inner class a lambda(£˜ò‹
+D
+java:S1604Û"(Make this anonymous inner class a lambda(¯Ú¼úÿÿÿÿ
+?
+java:S1604ã"(Make this anonymous inner class a lambda(áŸû¶
+?
+java:S1604ë"(Make this anonymous inner class a lambda(–ëÉ«
+>
+java:S1604ó"(Make this anonymous inner class a lambda(„ƒ‹
+?
+java:S1604û"(Make this anonymous inner class a lambda(–—ÔÁ
+?
+java:S1604ƒ"(Make this anonymous inner class a lambda(¬Ş³ó
+?
+java:S1604‹"(Make this anonymous inner class a lambda(ÂøºŠ
+?
+java:S1604“"(Make this anonymous inner class a lambda(çÉ†
+D
+java:S1604Ç"(Make this anonymous inner class a lambda(‹ıÉ¼üÿÿÿÿ
+D
+java:S1604ı"(Make this anonymous inner class a lambda(…æ©âÿÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(Œµƒ¨üÿÿÿÿ
+D
+java:S1604—"(Make this anonymous inner class a lambda(ƒõİÁùÿÿÿÿ
+?
+java:S1604¡"(Make this anonymous inner class a lambda(™¡”Ï
+D
+java:S1604°"(Make this anonymous inner class a lambda(ªõ—¶ûÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡š¦?
+p	java:S116%"VRename this field "le_caissier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŞ¹¿şÿÿÿÿ
+i	java:S116)"TRename this field "id_client" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ô½ª
+m	java:S116+"XRename this field "id_pointvente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ïî˜
+o	java:S116À"YRename this field "Boutonmisejour" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ ÍŠ
+m	java:S116Ú"RRename this field "jC_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌöÂ¸şÿÿÿÿ
+m	java:S116Û"RRename this field "jL_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïåˆğşÿÿÿÿ
+o	java:S116Ü"TRename this field "jL_entree" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şñØäıÿÿÿÿ
+o	java:S116İ"YRename this field "jL_nomCaissier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÙ’¸
+r	java:S116Ş"WRename this field "jL_operateur" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙÄÖ“úÿÿÿÿ
+s	java:S116ß"XRename this field "jL_pointvente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ÉÔ˜úÿÿÿÿ
+i	java:S116à"SRename this field "jL_total" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áìØ
+l	java:S116ü"VRename this field "jT_fidelite" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€÷ô—
+s	java:S116ı"XRename this field "jT_id_produit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øİœÈøÿÿÿÿ
+g	java:S116ş"RRename this field "jT_prix" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î´éJ
+p	java:S116ÿ"URename this field "jT_produit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğé¶™øÿÿÿÿ
+n	java:S116€"XRename this field "jT_qtitepoids" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ÿÍ¯
+j	java:S116"TRename this field "jT_remise" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ‹
+t
+java:S1450À"]Remove the "Boutonmisejour" field and declare it as a local variable in the relevant methods.(’ ÍŠ
+s
+java:S1450Á"\Remove the "boutonAjouter" field and declare it as a local variable in the relevant methods.(ÒˆÛÁ
+u
+java:S1450Â"YRemove the "boutonSupp" field and declare it as a local variable in the relevant methods.(åßÄáùÿÿÿÿ
+n
+java:S1450Æ"WRemove the "jButton1" field and declare it as a local variable in the relevant methods.(å……¶
+t
+java:S1450Ç"XRemove the "jButton10" field and declare it as a local variable in the relevant methods.(¯¢»Äÿÿÿÿÿ
+o
+java:S1450È"XRemove the "jButton11" field and declare it as a local variable in the relevant methods.(å÷ÕÆ
+o
+java:S1450É"XRemove the "jButton12" field and declare it as a local variable in the relevant methods.(Åù«ä
+t
+java:S1450Ê"XRemove the "jButton13" field and declare it as a local variable in the relevant methods.(œœíşÿÿÿÿ
+t
+java:S1450Ë"XRemove the "jButton14" field and declare it as a local variable in the relevant methods.(“´‡şÿÿÿÿ
+t
+java:S1450Ì"XRemove the "jButton15" field and declare it as a local variable in the relevant methods.(¹àÕ‘şÿÿÿÿ
+o
+java:S1450Í"XRemove the "jButton16" field and declare it as a local variable in the relevant methods.(¢Àù
+t
+java:S1450Î"XRemove the "jButton17" field and declare it as a local variable in the relevant methods.( á‰ üÿÿÿÿ
+o
+java:S1450Ï"XRemove the "jButton18" field and declare it as a local variable in the relevant methods.(±ßú½
+t
+java:S1450Ğ"XRemove the "jButton19" field and declare it as a local variable in the relevant methods.(É”Çˆùÿÿÿÿ
+n
+java:S1450Ñ"WRemove the "jButton2" field and declare it as a local variable in the relevant methods.(¤½ÃÜ
+o
+java:S1450Ò"XRemove the "jButton20" field and declare it as a local variable in the relevant methods.(ğ¿×‚
+o
+java:S1450Ó"XRemove the "jButton21" field and declare it as a local variable in the relevant methods.(òÄ†‡
+t
+java:S1450Ô"XRemove the "jButton22" field and declare it as a local variable in the relevant methods.(‹àÏÿÿÿÿÿ
+s
+java:S1450Õ"WRemove the "jButton5" field and declare it as a local variable in the relevant methods.(â¦Î©ûÿÿÿÿ
+n
+java:S1450Ö"WRemove the "jButton6" field and declare it as a local variable in the relevant methods.(á®İş
+n
+java:S1450×"WRemove the "jButton7" field and declare it as a local variable in the relevant methods.(İöÏÒ
+n
+java:S1450Ø"WRemove the "jButton8" field and declare it as a local variable in the relevant methods.(ç™Ôô
+s
+java:S1450Ù"WRemove the "jButton9" field and declare it as a local variable in the relevant methods.(õ©©Âûÿÿÿÿ
+r
+java:S1450á"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450â"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+s
+java:S1450ã"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+n
+java:S1450ä"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+s
+java:S1450å"WRemove the "jLabel13" field and declare it as a local variable in the relevant methods.(ÑİĞİıÿÿÿÿ
+s
+java:S1450æ"WRemove the "jLabel14" field and declare it as a local variable in the relevant methods.(ÖóœÍıÿÿÿÿ
+s
+java:S1450ç"WRemove the "jLabel15" field and declare it as a local variable in the relevant methods.(³şâçøÿÿÿÿ
+s
+java:S1450è"WRemove the "jLabel16" field and declare it as a local variable in the relevant methods.(š¼ª¯üÿÿÿÿ
+n
+java:S1450é"WRemove the "jLabel17" field and declare it as a local variable in the relevant methods.(„Ç›Ä
+m
+java:S1450ê"WRemove the "jLabel18" field and declare it as a local variable in the relevant methods.(†«=
+r
+java:S1450ë"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450ì"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450í"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450î"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+r
+java:S1450ï"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ
+m
+java:S1450ğ"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ
+m
+java:S1450ñ"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450ò"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450ó"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450ô"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+m
+java:S1450õ"VRemove the "jPanel3" field and declare it as a local variable in the relevant methods.(Œ³èÈ
+r
+java:S1450ö"VRemove the "jPanel4" field and declare it as a local variable in the relevant methods.(§É†¬şÿÿÿÿ
+m
+java:S1450÷"VRemove the "jPanel5" field and declare it as a local variable in the relevant methods.(³¡©ú
+l
+java:S1450ø"VRemove the "jPanel6" field and declare it as a local variable in the relevant methods.(í›åv
+w
+java:S1450ù"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿ
+w
+java:S1450ú"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿ
+w
+java:S1450û"[Remove the "jScrollPane3" field and declare it as a local variable in the relevant methods.(Ò‰êêùÿÿÿÿ
+o
+java:S1450„"SRemove the "prix" field and declare it as a local variable in the relevant methods.(·ê»Ïûÿÿÿÿ
+H
+java:S1948%"-Make "le_caissier" transient or serializable.(âŞ¹¿şÿÿÿÿ
+E
+java:S1874A"/Remove this use of "disable"; it is deprecated.(ÃÛ“Ş
+J
+java:S1874B"/Remove this use of "disable"; it is deprecated.(¤óñşÿÿÿÿ
+J
+java:S1874C"/Remove this use of "disable"; it is deprecated.(çµ”ùÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(ÌÇ„”ûÿÿÿÿ
+Q
+java:S1161û":Add the "@Override" annotation above this method signature(†ŒË³
+Q
+java:S1161½":Add the "@Override" annotation above this method signature(†ŒË³
+V
+java:S1161Š":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ
+Q
+java:S1161œ":Add the "@Override" annotation above this method signature(†ŒË³
+V
+java:S1161Í":Add the "@Override" annotation above this method signature(ŠÖô„øÿÿÿÿ
+Q
+java:S1161ß":Add the "@Override" annotation above this method signature(†ŒË³
+@
+java:S1172Ü"*Remove this unused method parameter "evt".(Å²Ål
+i	java:S100à"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÙÂ˜øÿÿÿÿ
+F
+java:S1172à"*Remove this unused method parameter "evt".(ıÙÂ˜øÿÿÿÿ
+N
+java:S1135á"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172ä"*Remove this unused method parameter "evt".(æ¸ûË
+F
+java:S1172è"*Remove this unused method parameter "evt".(ïã¶Èúÿÿÿÿ
+V
+java:S1117ì":Rename "prix" which hides the field declared at line 1668.(¦›çÚüÿÿÿÿ
+A
+java:S1172œ"*Remove this unused method parameter "evt".(õùâÄ
+A
+java:S1172­"*Remove this unused method parameter "evt".(çªîø
+i	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ‡ö¿øÿÿÿÿ
+F
+java:S1172Æ"*Remove this unused method parameter "evt".(ˆ‡ö¿øÿÿÿÿ
+V
+java:S1117×":Rename "prix" which hides the field declared at line 1668.(¦›çÚüÿÿÿÿ
+F
+java:S1172Œ	"*Remove this unused method parameter "evt".(òáçùÿÿÿÿÿ
+A
+java:S1172¥	"*Remove this unused method parameter "evt".(œã’€
+W	java:S125Æ	"<This block of commented-out lines of code should be removed.(±Ó·¼üÿÿÿÿ
+A
+java:S1172Ê	"*Remove this unused method parameter "evt".(‚À‡ä
+A
+java:S1172İ	"*Remove this unused method parameter "evt".(Âé¨–
+F
+java:S1172ú	"*Remove this unused method parameter "evt".(Ú‹Ä«ıÿÿÿÿ
+F
+java:S1172ÿ	"*Remove this unused method parameter "evt".(¹¾ûüÿÿÿÿ
+F
+java:S1172†
+"*Remove this unused method parameter "evt".(ø¨Ì¾ûÿÿÿÿ
+A
+java:S1172
+"*Remove this unused method parameter "evt".(Üæ¦‚
+A
+java:S1172”
+"*Remove this unused method parameter "evt".(¡àÍ…
+F
+java:S1172›
+"*Remove this unused method parameter "evt".(ËöÙøÿÿÿÿ
+@
+java:S1172¢
+"*Remove this unused method parameter "evt".(€«ş2
+A
+java:S1172©
+"*Remove this unused method parameter "evt".(À¹òÊ
+F
+java:S1172°
+"*Remove this unused method parameter "evt".(áÕ¼€ÿÿÿÿÿ
+A
+java:S1172·
+"*Remove this unused method parameter "evt".(êÆ²¼
+A
+java:S1172¾
+"*Remove this unused method parameter "evt".(ƒ½ØÊ
+A
+java:S1172Å
+"*Remove this unused method parameter "evt".(ŒïË
+A
+java:S1172å
+"*Remove this unused method parameter "evt".(Ã¹ğ’
+F
+java:S1172„"*Remove this unused method parameter "evt".(åÜâıÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+A
+java:S1172’"*Remove this unused method parameter "evt".(º–Ì
+i
+java:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(˜ËãÅ
+A
+java:S1172¯"*Remove this unused method parameter "evt".(˜ËãÅ
+F
+java:S1172ø"*Remove this unused method parameter "evt".(§Ñ·‚ùÿÿÿÿ
+A
+java:S1172ƒ"*Remove this unused method parameter "evt".(è¿é¦
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(ô¦†ùÿÿÿÿ
+A
+java:S1172¦"*Remove this unused method parameter "evt".(¢î¦è
+H
+java:S1128"2Remove this unused import 'javax.swing.JComboBox'.(¿â³Ğ

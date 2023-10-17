@@ -1,0 +1,58 @@
+
+f
+java:S1192H"IDefine a constant instead of duplicating this literal "Segoe UI" 7 times.(¹¡Ìò8ËˆŒ›³1
+q
+java:S1192F"ODefine a constant instead of duplicating this literal "Segoe UI Light" 3 times.(ÏˆİÔıÿÿÿÿ8ËˆŒ›³1
+n	java:S117Ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İŠ8ÌˆŒ›³1
+s	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‰ÆÎÿÿÿÿÿ8ÌˆŒ›³1
+n	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ââ»¤8ÌˆŒ›³1
+D
+java:S1604R"(Make this anonymous inner class a lambda(«û¹
+8ÌˆŒ›³1
+K
+java:S1604‘"(Make this anonymous inner class a lambda(ıËÈùÿÿÿÿ8ÌˆŒ›³1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°¬Öûÿÿÿÿ8ÎˆŒ›³1
+{	java:S116Û"^Rename this field "BoutonLoginCaissier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÙŸ8ıˆŒ›³1
+z	java:S116Ü"]Rename this field "BoutonLoginManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï´Æ8şˆŒ›³1
+z	java:S116İ"XRename this field "jC_pointvente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë©ÆÉûÿÿÿÿ8şˆŒ›³1
+v	java:S116è"YRename this field "jP_codemanager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¶«ˆ8şˆŒ›³1
+s	java:S116é"VRename this field "jP_mumbadge" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ªüÁ8şˆŒ›³1
+s	java:S116ì"VRename this field "jPanel_home" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÛËÈ8şˆŒ›³1
+z	java:S116í"XRename this field "jT_nomManager" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¥“”úÿÿÿÿ8şˆŒ›³1
+{	java:S116î"YRename this field "jT_nomcaissier" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Š¬şÿÿÿÿ8şˆŒ›³1
+€
+java:S1450Û"bRemove the "BoutonLoginCaissier" field and declare it as a local variable in the relevant methods.(¨ÙŸ8ƒ‰Œ›³1
+
+java:S1450Ü"aRemove the "BoutonLoginManager" field and declare it as a local variable in the relevant methods.(ï´Æ8ƒ‰Œ›³1
+y
+java:S1450Ş"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ8„‰Œ›³1
+z
+java:S1450ß"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ8„‰Œ›³1
+y
+java:S1450à"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ8„‰Œ›³1
+y
+java:S1450á"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ8…‰Œ›³1
+t
+java:S1450â"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã8…‰Œ›³1
+t
+java:S1450ã"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®8…‰Œ›³1
+y
+java:S1450ä"VRemove the "jLabel6" field and declare it as a local variable in the relevant methods.(¸ôÂøÿÿÿÿ8…‰Œ›³1
+t
+java:S1450å"VRemove the "jLabel7" field and declare it as a local variable in the relevant methods.(×ê˜Ÿ8†‰Œ›³1
+t
+java:S1450æ"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢8†‰Œ›³1
+y
+java:S1450ç"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ8†‰Œ›³1
+t
+java:S1450ê"VRemove the "jPanel3" field and declare it as a local variable in the relevant methods.(Œ³èÈ8‡‰Œ›³1
+y
+java:S1450ë"VRemove the "jPanel4" field and declare it as a local variable in the relevant methods.(§É†¬şÿÿÿÿ8‡‰Œ›³1
+x
+java:S1450ì"ZRemove the "jPanel_home" field and declare it as a local variable in the relevant methods.(ÔÛËÈ8‡‰Œ›³1
+k	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ç“ş8«‰Œ›³1
+H
+java:S1172‘"*Remove this unused method parameter "evt".(¯Ç“ş8¬‰Œ›³1
+k	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ş¸8®‰Œ›³1
+H
+java:S1172°"*Remove this unused method parameter "evt".(€Ş¸8¯‰Œ›³1
